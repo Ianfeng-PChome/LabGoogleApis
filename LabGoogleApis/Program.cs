@@ -71,8 +71,8 @@ class Program
         //program.DeleteFile(deleteFileId);
     }
 
-    string googleClinetId = "1069820144133-ibqva22ebgflm4iff58flecfo7gmp9sv.apps.googleusercontent.com";
-    string googleClinetSecret = "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";
+    string googleClinetId = "GoogleApisClinetId";
+    string googleClinetSecret = "GoogleApisClinetSecret";
 
     /// <summary>
     /// 登入
